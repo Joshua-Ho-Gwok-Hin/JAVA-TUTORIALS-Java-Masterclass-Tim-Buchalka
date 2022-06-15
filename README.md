@@ -1,4 +1,4 @@
-# Java-Masterclass by Tim Buchalka
+# Java Masterclass by Tim Buchalka
 Hi my name is Joshua Ho Gwok Hin.<br>
 Nice to have you here! 😊 <br>
 This repository is my solutions to the execises of JAVA MASTERCLASS by Tim Buchalka. <br>
