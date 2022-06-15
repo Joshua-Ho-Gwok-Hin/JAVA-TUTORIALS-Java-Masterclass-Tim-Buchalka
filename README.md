@@ -1,6 +1,7 @@
 # Java-Masterclass by Tim Buchalka
-Hi my name is Joshua Ho Gwok Hin. Nice to have you here! 😊 <br>
-This repository stores my solutions to the coding execises and challenges of JAVA MASTERCLASS by Tim Buchalka. <br>
+Hi my name is Joshua Ho Gwok Hin.<br>
+Nice to have you here! 😊 <br>
+This repository is my solutions to the execises of JAVA MASTERCLASS by Tim Buchalka. <br>
 
 This repository has 2 sections:<br>
 <a href="https://github.com/Joshua-Ho-Gwok-Hin/Java-Masterclass">Numbered Coding Exercises</a><br>
